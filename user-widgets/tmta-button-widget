@@ -1,0 +1,1 @@
+{"code":"tmta-button-widget","name":"tmta-button-widget","thumbnail":"https://unpkg.com/tmta-demo-component@0.1.5/dist/assets/thumbnail.png","versions":[{"version":"v1","configSchema":{"type":"object","properties":{"size":{"type":"number","ui":{"label":"Size","columns":6}}},"ui":{"widgetConfig":{"layout":"h"}}}}]}
