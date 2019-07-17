@@ -1,0 +1,1 @@
+{"code":"tmta-img-widget","name":"tmta-img-widget","thumbnail":"https://unpkg.com/tmta-demo-component@0.1.5/dist/assets/thumbnail.png","shortDesc":{"en":"Office image widget","zh_cn":"官方图片小部件"},"dataSchema":{"type":"object","properties":{"src":{"type":"string"}}}}

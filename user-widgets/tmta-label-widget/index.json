@@ -1,1 +1,0 @@
-{"code":"tmta-label-widget","name":"tmta-label-widget","thumbnail":"https://unpkg.com/tmta-demo-component@0.1.5/dist/assets/thumbnail.png","dataSchema":{"type":"object","properties":{"text":{"type":"string"},"color":{"type":"string"}}}}

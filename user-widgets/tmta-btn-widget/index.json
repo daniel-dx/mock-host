@@ -1,0 +1,1 @@
+{"code":"tmta-btn-widget","name":"tmta-btn-widget","thumbnail":"https://unpkg.com/tmta-demo-component@0.1.5/dist/assets/thumbnail.png","shortDesc":{"en":"Office button widget","zh_cn":"官方按钮小部件"},"dataSchema":{"type":"object","properties":{"label":{"type":"string"}}}}
